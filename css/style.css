@@ -1,5 +1,9 @@
+body {
+    font-family: 'Bangers', cursive;
+}
+
 p {
-    background-color: grey;
+    background-color: lightpink;
     font-size: 20px;
-    color: blue;
+    color: darkturquoise;
 }
